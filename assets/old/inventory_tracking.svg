@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="124" viewBox="0 0 123 124">
+  <g id="inventory_tracking" transform="translate(-1059 -8352)">
+    <rect id="Rectangle_1493" data-name="Rectangle 1493" width="123" height="124" rx="5" transform="translate(1059 8352)" fill="#b0d3ff"/>
+    <g id="bx-current-location" transform="translate(1071 8364.263)">
+      <circle id="Ellipse_120" data-name="Ellipse 120" cx="19" cy="19" r="19" transform="translate(30.5 30.5)" fill="#0f61cb"/>
+      <path id="Path_10182" data-name="Path 10182" d="M54.25,11.828V2h-9.5v9.828A38.048,38.048,0,0,0,11.828,44.75H2v9.5h9.828A38.038,38.038,0,0,0,44.75,87.172V97h9.5V87.172A38.033,38.033,0,0,0,87.172,54.25H97v-9.5H87.172A38.038,38.038,0,0,0,54.25,11.828ZM49.5,78A28.5,28.5,0,1,1,78,49.5,28.529,28.529,0,0,1,49.5,78Z" fill="#0f61cb"/>
+    </g>
+  </g>
+</svg>

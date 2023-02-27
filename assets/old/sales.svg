@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="124" viewBox="0 0 123 124">
+  <g id="sales" transform="translate(-302 -9845)">
+    <rect id="Rectangle_1499" data-name="Rectangle 1499" width="123" height="124" rx="5" transform="translate(302 9845)" fill="#b0d3ff"/>
+    <g id="bx-wallet" transform="translate(314 9853.263)">
+      <path id="Path_10194" data-name="Path 10194" d="M16,12h9.5V32.667H16Z" transform="translate(52.5 37.5)" fill="#0e61ce"/>
+      <path id="Path_10195" data-name="Path 10195" d="M87.5,23.667V13.333C87.5,7.634,83.239,3,78,3H16.25C8.393,3,2,9.954,2,18.5v62C2,91.872,10.522,96,16.25,96H87.5c5.239,0,9.5-4.634,9.5-10.333V34C97,28.3,92.739,23.667,87.5,23.667ZM16.25,13.333H78V23.667H16.25A5,5,0,0,1,11.708,18.5a5,5,0,0,1,4.542-5.167ZM87.5,85.667H16.307C14.113,85.6,11.5,84.659,11.5,80.5V33.044A12.964,12.964,0,0,0,16.25,34H87.5Z" fill="#0e61ce"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="124" viewBox="0 0 123 124">
+  <g id="online_ordering" transform="translate(-1059 -9037)">
+    <rect id="Rectangle_1496" data-name="Rectangle 1496" width="123" height="124" rx="5" transform="translate(1059 9037)" fill="#b0d3ff"/>
+    <g id="bx-id-card" transform="translate(1067.351 9054.263)">
+      <path id="Path_10183" data-name="Path 10183" d="M17.881,27.743c5.851,0,10.166-4.19,10.166-9.871S23.732,8,17.881,8,7.715,12.19,7.715,17.871,12.025,27.743,17.881,27.743Z" transform="translate(23.335 15.743)" fill="#0f61cb"/>
+      <path id="Path_10184" data-name="Path 10184" d="M93.5,4H12.166C6.56,4,2,8.151,2,13.254V73.716c0,5.1,4.56,9.254,10.166,9.254H93.5c5.607,0,10.166-4.151,10.166-9.254V13.254C103.661,8.151,99.1,4,93.5,4Zm0,69.1-81.329-.054V13.871l81.329.054Z" transform="translate(0)" fill="#0f61cb"/>
+      <path id="Path_10185" data-name="Path 10185" d="M46.664,9H67v9.871H46.664Zm5.083,19.743H67v9.871H51.748ZM43.767,41.26c0-6.782-8.519-13.751-18.884-13.751S6,34.478,6,41.26v2.29H43.767Z" transform="translate(16.332 19.678)" fill="#0f61cb"/>
+    </g>
+  </g>
+</svg>

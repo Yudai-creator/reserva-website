@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="124" viewBox="0 0 123 124">
+  <g id="receiving" transform="translate(-302 -9611)">
+    <rect id="Rectangle_1498" data-name="Rectangle 1498" width="123" height="124" rx="5" transform="translate(302 9611)" fill="#b0d3ff"/>
+    <g id="bx-receipt" transform="translate(314 9623.5)">
+      <path id="Path_10192" data-name="Path 10192" d="M92.25,44.333H78V8.167A4.971,4.971,0,0,0,73.25,3H6.75A4.971,4.971,0,0,0,2,8.167V80.5C2,89.046,8.393,96,16.25,96h66.5C90.606,96,97,89.046,97,80.5v-31A4.971,4.971,0,0,0,92.25,44.333Zm-76,41.333A4.971,4.971,0,0,1,11.5,80.5V13.333h57V80.5a16.754,16.754,0,0,0,.812,5.167ZM87.5,80.5a4.767,4.767,0,1,1-9.5,0V54.667h9.5Z" fill="#0e61ce"/>
+      <path id="Path_10193" data-name="Path 10193" d="M6,7H44V17.333H6ZM6,27.667H44V38H6ZM29.75,48.333H44V58.667H29.75Z" transform="translate(15 16.667)" fill="#0e61ce"/>
+    </g>
+  </g>
+</svg>
